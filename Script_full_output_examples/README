@@ -1,1 +1,3 @@
 These folders contain raw data and script output examples from several "identical" energy storage cells, that have been charged using either constant current or constant current-constant voltage charging methodolgies and then discharged using a constant current.
+
+Arbitrary cell information has been included in the cell_info.xlsx file to show the current full working output of the script. This includes values for functional component and total device weights, functional component area, and useable voltage limit.
