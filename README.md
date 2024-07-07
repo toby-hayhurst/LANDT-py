@@ -1,5 +1,5 @@
 # LANDT-py
-Script used to analyse output data (Excel) of energy storage cells from Landt battery test machines (https://www.landtinst.com/battery-test-systems-for-energy-materials-research/) and provide useful insights with regards to energy storage device performance through data visualisations.
+This python script takes several output data files (Excel) from Landt battery test machines (https://www.landtinst.com/battery-test-systems-for-energy-materials-research/) and provides useful insights with regards to energy storage device performance for each device, using data visualisations.
 
 This script works with Landt raw data exported using LANDdt data processing software (https://www.landtinst.com/battery-test-software/) in Excel format. When exporting raw data the following should be confirmed:
 
